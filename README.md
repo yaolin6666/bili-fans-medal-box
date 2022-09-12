@@ -2,7 +2,7 @@
 Show your bili-fans-medals in a github gist  
 
 
-![](https://user-images.githubusercontent.com/54094119/181197811-73e621cf-ddbf-401c-ac5c-bc628dbc995b.png)
+<script src="https://gist.github.com/yaolin6666/911bdffcb39fbf915df1f011ece66e15.js"></script>
 
 ## Setup  
 ### Prep work
